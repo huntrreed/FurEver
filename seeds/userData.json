@@ -1,0 +1,30 @@
+[
+  {
+    "name": "John",
+    "username": "JohnLikesCats",
+    "email": "hello@hotmail.com",
+    "password": "password",
+    "allowSenior": true
+  },
+  {
+    "name": "Jane",
+    "username": "JaneLikesDogs",
+    "email": "hello2@hotmail.com",
+    "password": "password",
+    "allowSenior": false
+  },
+  {
+    "name": "Bob",
+    "username": "BobLikesBirds",
+    "email": "hello3@hotmail.com",
+    "password": "password",
+    "allowSenior": true
+  },
+  {
+    "name": "Sally",
+    "username": "SallyLikesSnakes",
+    "email": "hello4@hotmail.com",
+    "password": "password",
+    "allowSenior": false
+  }
+]

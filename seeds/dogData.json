@@ -1,0 +1,343 @@
+[
+  {
+    "name": "Buddy",
+    "age": 5,
+    "breed": "Golden Retriever",
+    "description": "Buddy is a loyal companion who enjoys long walks in the park.",
+    "energyLevel": "High",
+    "kidFriendly": true,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "70 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1612774412771-005ed8e861d2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+    "name": "Luna",
+    "age": 3,
+    "breed": "Siberian Husky",
+    "description": "Luna is a playful and energetic dog who loves the outdoors.",
+    "energyLevel": "Very High",
+    "kidFriendly": true,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "55 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1542222721-4728992b54cc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c2liZXJpYW4lMjBodXNreXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+    "name": "Max",
+    "age": 4,
+    "breed": "German Shepherd",
+    "description": "Max is a intelligent and loyal dog, great for active families.",
+    "energyLevel": "High",
+    "kidFriendly": true,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "85 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1511816628855-8a3d86e8f674?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGdlcm1hbiUyMHNoZXBoZXJkJTIwZG9nfGVufDB8fDB8fHww"
+    },
+    {
+    "name": "Bailey",
+    "age": 2,
+    "breed": "Labrador Retriever",
+    "description": "Bailey is a friendly and affectionate dog who loves to swim.",
+    "energyLevel": "Medium",
+    "kidFriendly": true,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "60 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1554456854-55a089fd4cb2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bGFicmFkb3IlMjByZXRyaWV2ZXJ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+    "name": "Charlie",
+    "age": 6,
+    "breed": "Boxer",
+    "description": "Charlie is a playful and energetic dog who adores people.",
+    "energyLevel": "Very High",
+    "kidFriendly": true,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "70 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1442605527737-ed62b867591f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Ym94ZXIlMjBkb2d8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+    "name": "Sadie",
+    "age": 3,
+    "breed": "Australian Shepherd",
+    "description": "Sadie is an intelligent and loyal dog who loves to learn new tricks.",
+    "energyLevel": "High",
+    "kidFriendly": true,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "45 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1558712168-e197b204f86e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXVzdHJhbGlhbiUyMHNoZXBoZXJkfGVufDB8fDB8fHww"
+    },
+    {
+    "name": "Daisy",
+    "age": 4,
+    "breed": "Shih Tzu",
+    "description": "Daisy is a sweet and gentle dog who loves cuddles.",
+    "energyLevel": "Low",
+    "kidFriendly": true,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "12 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1534628526458-a8de087b1123?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2hpaCUyMHR6dXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+    "name": "Rocky",
+    "age": 5,
+    "breed": "Rottweiler",
+    "description": "Rocky is a strong and protective dog who is loyal to his family.",
+    "energyLevel": "Medium",
+    "kidFriendly": true,
+    "otherDogFriendly": false,
+    "spayedNeutered": true,
+    "weight": "95 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1644563320037-71630d8515b0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHJvdHR3ZWlsZXJ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+    "name": "Molly",
+    "age": 6,
+    "breed": "Border Collie",
+    "description": "Molly is a highly intelligent and energetic dog who excels in agility training.",
+    "energyLevel": "Very High",
+    "kidFriendly": true,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "40 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1611468983256-8374e2460484?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJvcmRlciUyMGNvbGxpZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    
+    {
+    "name": "Cooper",
+    "age": 3,
+    "breed": "Australian Cattle Dog",
+    "description": "Cooper is an energetic and loyal dog who loves to work.",
+    "energyLevel": "High",
+    "kidFriendly": true,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "50 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1641663573415-f6211a9b0047?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGF1c3RyYWxpYW4lMjBjYXR0bGUlMjBkb2d8ZW58MHx8MHx8fDA%3D"
+    },
+    
+    {
+    "name": "Roxy",
+    "age": 4,
+    "breed": "Dalmatian",
+    "description": "Roxy is a playful and energetic dog who enjoys running and playing fetch.",
+    "energyLevel": "High",
+    "kidFriendly": true,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "55 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1543398386-928c45b6d3c4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZGFsbWF0aWFufGVufDB8fDB8fHww"
+    },
+    
+    {
+    "name": "Bear",
+    "age": 2,
+    "breed": "Bernese Mountain Dog",
+    "description": "Bear is a gentle giant who loves to be around people and other dogs.",
+    "energyLevel": "Medium",
+    "kidFriendly": true,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "110 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1560605802-2b16f27f1955?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YmVybmVzZSUyMG1vdW50YWluJTIwZG9nfGVufDB8fDB8fHww"
+    },
+    
+    {
+    "name": "Lucky",
+    "age": 7,
+    "breed": "Poodle",
+    "description": "Lucky is a smart and friendly dog who enjoys being pampered.",
+    "energyLevel": "Low",
+    "kidFriendly": true,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "20 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1605244863941-3a3ed921c60d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cG9vZGxlfGVufDB8fDB8fHww"
+    },
+    
+    {
+    "name": "Shadow",
+    "age": 4,
+    "breed": "Doberman Pinscher",
+    "description": "Shadow is a loyal and protective dog who loves his family.",
+    "energyLevel": "High",
+    "kidFriendly": true,
+    "otherDogFriendly": false,
+    "spayedNeutered": true,
+    "weight": "75 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1616322494008-d2c1712bbe50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZG9iZXJtYW4lMjBwaW5zY2hlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    
+    {
+    "name": "Maggie",
+    "age": 5,
+    "breed": "Cavalier King Charles Spaniel",
+    "description": "Maggie is a gentle and affectionate lap dog.",
+    "energyLevel": "Low",
+    "kidFriendly": true,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "15 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1613210609371-455e3aa5fb8c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2F2YWxpZXIlMjBraW5nJTIwY2hhcmxlcyUyMHNwYW5pZWx8ZW58MHx8MHx8fDA%3D"
+    },
+    
+    {
+    "name": "Bruno",
+    "age": 3,
+    "breed": "Bulldog",
+    "description": "Bruno is a laid-back and easygoing dog who loves to nap.",
+    "energyLevel": "Low",
+    "kidFriendly": true,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "50 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1546201483-a0fa9e5ed258?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGJ1bGxkb2d8ZW58MHx8MHx8fDA%3D"
+    },
+    
+    {
+    "name": "Zeus",
+    "age": 4,
+    "breed": "Great Dane",
+    "description": "Zeus is a gentle giant who loves to lounge around.",
+    "energyLevel": "Low",
+    "kidFriendly": false,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "150 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1592424701959-07bd1a04dc47?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGdyZWF0JTIwZGFuZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    
+    {
+    "name": "Rex",
+    "age": 6,
+    "breed": "Chow Chow",
+    "description": "Rex is an independent and aloof dog who bonds closely with his family.",
+    "energyLevel": "Low",
+    "kidFriendly": false,
+    "otherDogFriendly": false,
+    "spayedNeutered": true,
+    "weight": "60 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1667080799488-3fa8fe75cdd8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2hvdyUyMGNob3clMjBkb2d8ZW58MHx8MHx8fDA%3D"
+    },
+    
+    {
+    "name": "Ruby",
+    "age": 2,
+    "breed": "Shiba Inu",
+    "description": "Ruby is a spirited and independent dog who loves to explore.",
+    "energyLevel": "Medium",
+    "kidFriendly": false,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "20 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1578133507770-a35cc3c786e6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2hpYmElMjBpbnV8ZW58MHx8MHx8fDA%3D"
+    },
+    
+    {
+    "name": "Toby",
+    "age": 4,
+    "breed": "Cocker Spaniel",
+    "description": "Toby is a friendly and outgoing dog who loves attention.",
+    "energyLevel": "Medium",
+    "kidFriendly": true,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "30 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1572531222298-40f0c0a1e584?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNvY2tlciUyMHNwYW5pZWx8ZW58MHx8MHx8fDA%3D"
+    },
+    
+    {
+    "name": "Oscar",
+    "age": 3,
+    "breed": "Pug",
+    "description": "Oscar is a playful and affectionate dog who loves to snuggle.",
+    "energyLevel": "Medium",
+    "kidFriendly": true,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "25 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1453227588063-bb302b62f50b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHVnfGVufDB8fDB8fHww"
+    },
+    
+    {
+    "name": "Baxter",
+    "age": 5,
+    "breed": "Basset Hound",
+    "description": "Baxter is a laid-back and friendly dog who loves to follow his nose.",
+    "energyLevel": "Low",
+    "kidFriendly": true,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "55 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1617748418149-1c5f78b8ac6e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFzc2V0JTIwaG91bmR8ZW58MHx8MHx8fDA%3D"
+    },
+    
+    {
+    "name": "Milo",
+    "age": 2,
+    "breed": "Shetland Sheepdog",
+    "description": "Milo is an intelligent and energetic dog who loves to learn new tricks.",
+    "energyLevel": "High",
+    "kidFriendly": true,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "25 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1606043810890-bfee20c5032b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2hldGxhbmQlMjBzaGVlcGRvZ3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    
+    {
+    "name": "Lola",
+    "age": 4,
+    "breed": "French Bulldog",
+    "description": "Lola is a playful and affectionate dog who loves to cuddle.",
+    "energyLevel": "Medium",
+    "kidFriendly": true,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "20 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1521907236370-15adf2297445?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZnJlbmNoJTIwYnVsbGRvZ3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    
+    {
+    "name": "Simba",
+    "age": 3,
+    "breed": "Alaskan Malamute",
+    "description": "Simba is a strong and independent dog who loves outdoor adventures.",
+    "energyLevel": "Very High",
+    "kidFriendly": false,
+    "otherDogFriendly": true,
+    "spayedNeutered": true,
+    "weight": "90 lbs",
+    "specialMedNeeds": false,
+    "image": "https://images.unsplash.com/photo-1543333108-4f3e0f5a7d11?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWxhc2thbiUyMG1hbGFtdXRlfGVufDB8fDB8fHww"
+    }
+  ]
